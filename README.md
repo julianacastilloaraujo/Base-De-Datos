@@ -1,24 +1,24 @@
 # Curso de Bases de Datos con SQL 💚
 
-¡Bienvenido al curso de Bases de Datos con SQL de Platzi! Este curso te proporcionará los fundamentos y habilidades avanzadas para trabajar eficientemente con bases de datos.
+¡Bienvenido al **Curso de Bases de Datos con SQL** de Platzi! Este curso está diseñado para equiparte con los conocimientos fundamentales y avanzados necesarios para trabajar de manera eficiente con bases de datos.
 
-## Contenido del curso
+## Contenido del curso 📚
 
-- Consultas SELECT para extracción de datos.
-- Joins para combinar información de múltiples tablas.
-- Agrupaciones para análisis detallado.
-- Y más técnicas esenciales.
+- **Consultas SELECT:** Aprende a extraer datos de manera efectiva.
+- **Joins:** Domina la combinación de información desde múltiples tablas.
+- **Agrupaciones:** Realiza análisis detallados utilizando agrupaciones.
+- **Funciones avanzadas:** Explora funciones y técnicas esenciales para el manejo de datos.
 
-## Objetivos
+## Objetivos 🎯
 
-Aprenderás a manejar bases de datos con SQL desde cero hasta técnicas avanzadas, proporcionando las bases necesarias para tu desarrollo profesional en tecnología.
+Al finalizar este curso, serás capaz de manejar bases de datos utilizando SQL desde lo más básico hasta técnicas avanzadas, proporcionando una sólida base para tu desarrollo profesional en el campo de la tecnología.
 
-## Recursos adicionales
+## Recursos adicionales 📦
 
-- Certificado de finalización disponible en Platzi.
-- Comunidad activa y soporte continuo.
+- **Certificado de finalización:** Disponible al completar el curso en Platzi.
+- **Comunidad activa:** Accede a una comunidad vibrante y soporte continuo para resolver tus dudas y compartir conocimientos.
 
-¡Prepárate para impulsar tu carrera con las habilidades esenciales en Bases de Datos! 🚀
+¡Prepárate para impulsar tu carrera con habilidades esenciales en Bases de Datos! 🚀
 
 ---
 
